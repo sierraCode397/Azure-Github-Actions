@@ -105,5 +105,11 @@
 
    ![Descriptive Alt Text](./screenshots/Auto/9azure.png)
 
+> **Here is the Pipeline.**
+
+   ![Descriptive Alt Text](./screenshots/Auto/10azure.png)
+
+---
+
 **Finished**  
-I have successfully launched a static website using **Azure Static Web Apps**. .
+I have successfully launched a static website using **Azure Static Web Apps**.
